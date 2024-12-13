@@ -11,7 +11,10 @@ node_modules
 dist
 dist-ssr
 *.local
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> cd851cc (commit)
 
 # Editor directories and files
 .vscode/*
